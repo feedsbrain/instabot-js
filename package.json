@@ -1,0 +1,28 @@
+{
+  "name": "instabot-js",
+  "version": "1.0.0",
+  "description": "Instagram account management bot written in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feedsbrain/instabot-js.git"
+  },
+  "keywords": [
+    "instagram",
+    "bot",
+    "instabot",
+    "engagement",
+    "social",
+    "media",
+    "influencer"
+  ],
+  "author": "Indra Gunawan <feedsbrain@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/feedsbrain/instabot-js/issues"
+  },
+  "homepage": "https://github.com/feedsbrain/instabot-js#readme"
+}
